@@ -1,0 +1,6 @@
+*.gguf
+*.zim
+__pycache__/
+downloads/
+models/
+

@@ -18,7 +18,7 @@ Build a lightweight personal infrastructure stack on Android for:
 
 # Current Progress
 
-## ✅ Base Environment
+## Base Environment
 
 Completed:
 - Installed Termux
@@ -40,7 +40,7 @@ pkg install git python wget curl nano tmux
 
 ---
 
-## ✅ Persistent Sessions (tmux)
+## Persistent Sessions (tmux)
 
 Completed:
 - Installed tmux
@@ -58,7 +58,7 @@ tmux detach-client
 
 ---
 
-## ✅ Android AI Web Server
+## Android AI Web Server
 
 Completed:
 - Built Flask-based web UI
@@ -80,7 +80,7 @@ Features:
 
 ---
 
-## ✅ TinyLlama Local LLM
+## TinyLlama Local LLM
 
 Completed:
 - Downloaded quantized TinyLlama GGUF model
@@ -98,7 +98,7 @@ Inference:
 
 ---
 
-## ✅ LAN Hosting
+## LAN Hosting
 
 Completed:
 - Hosted server on:
@@ -118,7 +118,7 @@ Learned:
 
 ---
 
-## ✅ GitHub Integration
+## GitHub Integration
 
 Completed:
 - Initialized Git repo
@@ -336,6 +336,6 @@ Android Pocket Server
 # Current Status
 
 ```txt
-STATUS: OPERATIONAL 🔥
+STATUS: OPERATIONAL
 Local AI infrastructure successfully running on Android.
 ```

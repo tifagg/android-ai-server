@@ -56,7 +56,7 @@ button:hover{
 
 <body>
 
-<h1>🤖 Android AI Server</h1>
+<h1>Android AI Server</h1>
 
 <form action="/chat">
 
